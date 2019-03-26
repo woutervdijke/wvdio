@@ -1,0 +1,46 @@
+---
+---
+
+
+@import "{{ site.theme }}";
+
+h1 {
+  font-family: Raleway, 'Lucida Grande', Arial, sans-serif;
+}
+
+#project_tagline {
+  margin-top: 0;
+}
+
+#mainmenu {
+  margin-top: 20px;
+  margin-bottom: -25px;
+}
+
+#mainmenu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#mainmenu li {
+  display: inline-block;
+  //background-color: #111111;
+  padding: 5px;
+
+}
+
+#mainmenu a{
+  color: white;
+  font-weight: bold;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+.sociallink {
+  text-decoration: none;
+  margin-left: 10px;
+}

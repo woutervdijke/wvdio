@@ -5,3 +5,4 @@ github: false
 github.is_project_page: false
 title: Wouter van Dijke
 description: datajournalist
+excerpt_separator: <!--more-->

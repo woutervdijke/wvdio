@@ -1,11 +1,11 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll 2!"
 excerpt_separator: <!--more-->
 ---
 
 # Welcome
-<!--start-->
+
 **Hello world**, this is my first Jekyll blog post.
-<!--end-->
+<!--more-->
 <br />
 I hope you like it!
