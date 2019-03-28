@@ -23,6 +23,7 @@
           {% endif %}
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
@@ -59,12 +60,14 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
+
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p>Volg me: <a href="https://www.twitter.com/woutervd" target="_blank" class="sociallink"><i class="fab fa-twitter-square"> </i> @woutervd</a>
           <a href="https://www.linkedin.com/in/woutervandijke/" target="_blank" class="sociallink"><i class="fab fa-linkedin"> </i> woutervandijke</a>
           <a href="https://www.instagram.com/woutervdijke/" target="_blank" class="sociallink"><i class="fab fa-instagram"> </i> woutervdijke</a></p>
+        <h3 style="color: white; text-align: center;"><i class="fas fa-chart-area"></i> <i class="fas fa-globe-europe"></i> <i class="fas fa-chart-bar"></i> <i class="fas fa-chart-pie"></i> <i class="fas fa-chart-line"></i></h3>
       </footer>
     </div>
 
