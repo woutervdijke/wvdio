@@ -14,11 +14,10 @@ Iets geavanceerder zoeken en vervangen doe je met *Regular Expressions*, oftewel
 ![XKCD-strip over Regular Expressions](https://imgs.xkcd.com/comics/regular_expressions.png)
 
 ### Google Refine
-Google Refine (vroeger Open Refine) is gemaakt om te werken met rommelige data. Een heel handige functie is om waarden die op elkaar lijken, met elkaar te matchen.
-De gemeente bergen kan bijvoorbeeld op meerdere manieren geschreven worden:
+Google Refine (vroeger Open Refine) is gemaakt om te werken met rommelige data. Een heel handige functie is om waarden die op elkaar lijken, met elkaar te matchen. Bijvoorbeeld:
 - Bergen (L.)
 - Bergen (Limburg)
 - Bergen (L)
 - Bergen L
 
-Google Refine kan helpen om dit soort rommel op te schonen.
+Dit zijn allemaal manieren om dezelfde gemeente te schrijven, maar het maakt het lastig om mee te werken. Google Refine kan helpen om dit soort rommel op te schonen.
