@@ -1,12 +1,12 @@
 ---
 title: Blog
 
-menuitem: true
+menuitem: false
 menuorder: 1
 ---
 
 <div id="blogindex">
- {% for post in site.posts %}
+ {% for post in site.categories.blog %}
 
 
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

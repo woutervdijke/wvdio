@@ -7,7 +7,7 @@ menuorder: 5
 
 # Mijn favoriete tools
 
-Datajournalistiek is voor een heel groot deel handig doen met een computer. Goede tooltjes helpen daarbij. Dit zijn een aantal van mijn favorieten, per categorie:
+Datajournalistiek is voor een heel groot deel 'handig doen met een computer'. Goede tooltjes zijn daarbij onmisbaar. Om data te verzamelen, presenteren of analyseren. Dit zijn een aantal van mijn favorieten, per categorie:
 <div>
 {% for post in site.categories.tooltips %}
     {% if post.url %}

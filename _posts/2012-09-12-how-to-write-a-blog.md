@@ -1,6 +1,7 @@
 ---
 title:  "Welcome to Jekyll!"
 excerpt_separator: <!--more-->
+categories: blog
 ---
 
 # Welcome

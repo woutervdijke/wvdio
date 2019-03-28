@@ -4,15 +4,21 @@ excerpt_separator: <!--more-->
 categories: [tooltips]
 ---
 
-# Mijn favoriete kaarten-tools
-### QGIS
-Open source GIS-software. Voor het analyseren en opschonen van geografische data of het converteren van kaartbestanden. De leercurve is vrij steil en veel dingen zijn niet bepaald logisch, maar je kan er vrijwel alles mee wat je met een kaart zou willen doen.
+# Mijn favoriete tools om data op te schonen
+### Zoeken en vervangen
+Relatief simpele rommeligheden in data kun je opschonen met zoeken en vervangen, bijvoorbeeld in Excel. Letters met accenten die raar doen, gekke afbreekstreepjes, cijfers waar een punt in plaats van een komma in staat kun je met Zoeken en vervangen simpel oplossen.
 
-### Leaflet
-Javascript-library voor het maken van kaarten op een website. Je kunt er kant-en-klare kaarten mee weergeven, maar ook interactieve, dynamische tools mee maken.
+### Regular Expressions
+Iets geavanceerder zoeken en vervangen doe je met *Regular Expressions*, oftewel Regex. Met Regex kun je zoekopdrachten doen als *'vier cijfers, dan eventueel een spatie, en dan twee letters'*, als je bijvoorbeeld probeert om postcodes te pakken te krijgen. Een goede site is [RegExr.com](https://regexr.com/). Werkt ook als je bijvoorbeeld per se een adres moet achterhalen om een moordenaar te pakken te krijgen:
 
-### Mapbox
-Commercieel alternatief voor Mapbox. Voordeel: alles staat op één plek, je kunt er ook grote datasets hosten, en de Javascript-libraries zijn uitgebreid en goed gedocumenteerd. Maar groot nadeel: zodra je veel bezoekers trekt is het behoorlijk duur.
+![XKCD-strip over Regular Expressions](https://imgs.xkcd.com/comics/regular_expressions.png)
 
-### NLMaps
-Online kaartendienst, gemaakt door het Kadaster. NLMaps werkt samen met bijvoorbeeld Leaflet of Mapbox, en geeft je (gratis!) toegang tot basiskaarten van Nederland en een zoekfunctie voor alle Nederlandse adressen.
+### Google Refine
+Google Refine (vroeger Open Refine) is gemaakt om te werken met rommelige data. Een heel handige functie is om waarden die op elkaar lijken, met elkaar te matchen.
+De gemeente bergen kan bijvoorbeeld op meerdere manieren geschreven worden:
+- Bergen (L.)
+- Bergen (Limburg)
+- Bergen (L)
+- Bergen L
+
+Google Refine kan helpen om dit soort rommel op te schonen.
