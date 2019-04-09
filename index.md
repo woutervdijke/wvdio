@@ -15,4 +15,4 @@ Bij [RTL Nieuws](https://www.rtlnieuws.nl/tags/personen/wouter-van-dijke) doe ik
 
 Ik zit in het bestuur van [Vers in de Pers](https://www.nvj.nl/starters), de studenten- en starterssectie van de Nederlandse Vereniging voor Journalisten. Bij de NVJ Academy kun je ook mijn cursus [Datajournalistiek voor beginners](https://www.nvj.nl/agenda/datajournalistiek-beginners-5) volgen.
 
-Tips, vragen, opmerkingen? [Neem contact op!]({% link contact.md %})
+Tips, vragen, opmerkingen? [Neem contact op]({% link contact.md %})!
