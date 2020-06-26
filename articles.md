@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Artikelen
 
 menuitem: true
 menuorder: 6
