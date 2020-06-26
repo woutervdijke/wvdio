@@ -13,7 +13,7 @@ menuorder: 6
 <ul>
 {% for article in site.data.articles %}
   <li>
-    {{article.site}}: <a href="{{ article.url }}">
+    {{article.site}}: <a href="{{ article.url }}" target="_blank">
       {{ article.title }}
     </a>
   </li>
