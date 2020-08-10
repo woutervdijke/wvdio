@@ -14,7 +14,7 @@ Download Easy Pomodoro Timer [on the App Store](http://www.wvd.io/pomodoro)
 
 ## Support
 
-Need support? [Send an email](mailto:pomodorosupport@woutervandijke.nl)!
+Any questions or problems? [Send me an email](mailto:pomodorosupport@woutervandijke.nl)! If you're reporting a bug, please include which device you're using and a screenshot if possible, as well as any other information that might be relevant (iOS version, any error messages, etc.)
 
 ## Privacy Policy
 Wouter van Dijke built the Easy Pomodoro Timer app as a Free app. This SERVICE is provided by Wouter van Dijke at no cost and is intended for use as is.
