@@ -27,8 +27,7 @@ Meld je aan voor mijn nieuwsbrief Dataverhalen:
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/wouter/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
-    <label for="member_email">Emailadres:</label>
-    <input class="revue-form-field" placeholder="Vul je emailadres in" type="email" name="member[email]" id="member_email">
+    <input class="revue-form-field" placeholder="Jouw emailadres..." type="email" name="member[email]" id="member_email">
   </div>
   <div class="revue-form-actions">
     <input type="submit" value="Aanmelden" name="member[subscribe]" id="member_submit">
