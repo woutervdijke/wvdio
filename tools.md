@@ -1,7 +1,7 @@
 ---
 title: Tooltips
 
-menuitem: true
+menuitem: false
 menuorder: 5
 ---
 
