@@ -33,6 +33,7 @@ Meld je aan voor mijn nieuwsbrief Dataverhalen:
   <div class="revue-form-actions">
     <input type="submit" value="Aanmelden" name="member[subscribe]" id="member_submit">
   </div>
-  <div class="revue-form-footer"><small>Als je je aanmeldt, ga je akkoord met Revue’s <a target="_blank" href="https://www.getrevue.co/terms">gebruikersvoorwaarden</a> en <a target="_blank" href="https://www.getrevue.co/privacy">privacy policy</a>.<small></div>
+  <div class="revue-form-footer"><small>Als je je aanmeldt, ga je akkoord met Revue’s <a target="_blank" href="https://www.getrevue.co/terms">gebruikersvoorwaarden</a> en <a target="_blank" href="https://www.getrevue.co/privacy">privacy policy</a>.</small>
+  </div>
   </form>
 </div>
