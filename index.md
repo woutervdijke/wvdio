@@ -27,12 +27,12 @@ Meld je aan voor mijn nieuwsbrief Dataverhalen:
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/wouter/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
-    <label for="member_email">Email address</label>
-    <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
+    <label for="member_email">Emailadres:</label>
+    <input class="revue-form-field" placeholder="Vul je emailadres in" type="email" name="member[email]" id="member_email">
   </div>
   <div class="revue-form-actions">
-    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+    <input type="submit" value="Aanmelden" name="member[subscribe]" id="member_submit">
   </div>
-  <div class="revue-form-footer">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.</div>
+  <div class="revue-form-footer"><small>Als je je aanmeldt, ga je akkoord met Revue’s <a target="_blank" href="https://www.getrevue.co/terms">gebruikersvoorwaarden</a> en <a target="_blank" href="https://www.getrevue.co/privacy">privacy policy</a>.<small></div>
   </form>
 </div>
