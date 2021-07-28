@@ -8,7 +8,7 @@ menuorder: 0
 
 
 **Deze site is nog in de maak**
-
+![](assets/img/pf.jpeg)
 Journalist en professioneel computerfrutselaar. Mijn Exceltrucs doen het fantastisch [op feestjes](https://speld.nl/2017/05/20/deze-exceltrucs-doen-het-goed-op-feestjes/). Ik hou van nieuws, Python, Twitterbotjes en kaarten.
 
 Bij [RTL Nieuws](https://www.rtlnieuws.nl/tags/personen/wouter-van-dijke) schrijf ik artikelen op basis van data, bouw ik visualisaties en interactieve tools, en zorg ik voor *datajournalistieke duidingsdinges*<sup>[*](https://www.geenstijl.nl/5146834/zo-stemde-nederland-1991-2019/)</sup>.
