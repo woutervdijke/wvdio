@@ -9,7 +9,7 @@ menuorder: 0
 
 **Deze site is nog in de maak**
 
-![](assets/img/pf.jpeg)
+![](assets/img/pfwide.png)
 
 Journalist en professioneel computerfrutselaar. Mijn Exceltrucs doen het fantastisch [op feestjes](https://speld.nl/2017/05/20/deze-exceltrucs-doen-het-goed-op-feestjes/). Ik hou van nieuws, Python, Twitterbotjes en kaarten.
 
