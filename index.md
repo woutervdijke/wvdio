@@ -13,8 +13,8 @@ Journalist en professioneel computerfrutselaar. Mijn Exceltrucs doen het fantast
 
 Bij [RTL Nieuws](https://www.rtlnieuws.nl/tags/personen/wouter-van-dijke) schrijf ik artikelen op basis van data, bouw ik visualisaties en interactieve tools, en zorg ik voor *datajournalistieke duidingsdinges*<sup>[*](https://www.geenstijl.nl/5146834/zo-stemde-nederland-1991-2019/)</sup>.
 
-Vanaf augustus ga ik lesgeven aan de School voor Journalistiek in Utrecht, als docent data en online journalistiek. 
+Aan de School voor Journalistiek in Utrecht geef ik les in data, online journalistiek, factchecking en social media.
 
-Ik zit in het bestuur van [Vers in de Pers](https://www.nvj.nl/starters), de studenten- en starterssectie van de Nederlandse Vereniging voor Journalisten. Bij de NVJ Academy kun je ook mijn cursus [Datajournalistiek voor beginners](https://www.nvj.nl/agenda/datajournalistiek-beginners-8) volgen.
+Ik ben vice-voorzitter van [Vers in de Pers](https://www.nvj.nl/starters), de studenten- en starterssectie van de Nederlandse Vereniging voor Journalisten. Bij de NVJ Academy kun je ook mijn cursus [Datajournalistiek voor beginners](https://www.nvj.nl/agenda/datajournalistiek-beginners-8) volgen.
 
 Tips, vragen, opmerkingen? [Neem contact op]({% link contact.md %})!
