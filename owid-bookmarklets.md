@@ -2,6 +2,7 @@
 title: Our World in Data Bookmarklets
 
 menuitem: true
+menuorder: 4
 ---
 
 # Our World in Data bookmarklets
