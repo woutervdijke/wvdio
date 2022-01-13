@@ -22,4 +22,6 @@ Because Excel and csv files are annoying, there are two versions of the bookmark
 - columns in the csv are separated with semicolons
 
 ## Known bugs
+This is a quick tool I used to make my own life easier, but there might still be bugs or weird behaviours. The bugs below are known and yet to be fixed.
 - When used twice in a row, the bookmarklet generates an error. Refresh the page before using a second time.
+- Noticed anything else? Send me a DM on [Twitter](https://www.twitter.com/woutervd) or an email at wouter@woutervandijke.nl.
