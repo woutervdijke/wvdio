@@ -1,7 +1,7 @@
 ---
 title: Contact
 menuitem: true
-menuorder: 3
+menuorder: 9
 ---
 
 # Contact
