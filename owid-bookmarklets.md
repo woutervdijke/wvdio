@@ -1,4 +1,10 @@
-# Our World In Data bookmarklets
+---
+title: Our World in Data Bookmarklets
+
+menuitem: true
+---
+
+# Our World in Data bookmarklets
 
 These bookmarklets make it easy to download data from the fantastic repository [Our World In Data](http://www.ourworldindata.org). It only downloads the data from the graph that you see on your screen, instead of the entire data set.
 
